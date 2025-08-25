@@ -10,9 +10,11 @@
 
 # Попробовать
 1. скачать python больше 3.10
-2. ```git clone https://github.com/gemnibro/megajy 
+2. ```
+      git clone https://github.com/gemnibro/megajy 
       cd megajy
-	  pip install -r requirements.txt```
+	  pip install -r requirements.txt
+   ```
 3. `python generation_main.py`
 
 # Справка
